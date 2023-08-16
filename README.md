@@ -1,2 +1,4 @@
 # Loruki
-Simple web deployment website only the fornte-end
+- Responsive
+- Some animation was implemented
+- User Friendly and Simple
